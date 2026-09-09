@@ -29,3 +29,4 @@ customer_behavior_sql_queries.sql
 Customer_Shopping_Behavior_Analysis.ipynb
 customer_behavior_dashboard.pbix
 
+https://github.com/DEVANSHG24/customer-trends-data-analysis
